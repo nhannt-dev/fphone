@@ -1,0 +1,7 @@
+export { default as System } from './System'
+export { default as ManageProduct } from './ManageProduct'
+export { default as ManageUser } from './ManageUser'
+export { default as ManageBrand } from './ManageBrand'
+export { default as ManageCoupon } from './ManageCoupon'
+export { default as Statitics } from './Statitics'
+export { default as ManageBill } from './ManageBill'

@@ -1,0 +1,6 @@
+export { default as Personal } from './Personal'
+export { default as Wishlist } from './Wishlist'
+export { default as BuyHistory } from './BuyHistory'
+export { default as Smember } from './Smember'
+export { default as ChangePass } from './ChangePass'
+export { default as Order } from './Order'

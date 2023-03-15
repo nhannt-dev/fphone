@@ -1,0 +1,32 @@
+{
+  "development": {
+    "username": "nhannt",
+    "password": "A4R8FjWrk8V1JzTk7QJvNQjrZtDYD5AY",
+    "database": "fphone",
+    "host": "dpg-cg8mg182qv21l3baeta0-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "logging": false,
+    "timezone": "+07:00",
+    "dialectOptions": {
+        "ssl": {
+            "require": true,
+            "rejectUnauthorized": false
+        }
+    }
+  },
+  "production": {
+    "username": "nhannt",
+    "password": "A4R8FjWrk8V1JzTk7QJvNQjrZtDYD5AY",
+    "database": "fphone",
+    "host": "dpg-cg8mg182qv21l3baeta0-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "logging": false,
+    "timezone": "+07:00",
+    "dialectOptions": {
+        "ssl": {
+            "require": true,
+            "rejectUnauthorized": false
+        }
+    }
+  }
+}

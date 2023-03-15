@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-next {
+    right: 27px !important
+}
+
+.slick-next::before {
+    color: blue !important;
+    font-size: 38px !important;
+    background-color: white !important;
+    box-shadow: -3px 1px 3px #ccc !important;
+    padding: 20px 10px 14px 10px !important;
+    border-radius: 50px 10px 10px 50px !important;
+}
+
+.slick-prev {
+    left: -8px !important;
+    z-index: 10;
+}
+
+.slick-prev::before {
+    color: blue !important;
+    font-size: 38px !important;
+    background-color: white !important;
+    box-shadow: 3px 0px 1px rgb(71, 71, 71) !important;
+    padding: 20px 10px 14px 10px !important;
+    border-radius: 10px 50px 50px 10px !important;
+    /* opacity: 1 !important; */
+}

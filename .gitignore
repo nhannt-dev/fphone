@@ -1,0 +1,8 @@
+client/node_modules
+client/.env
+server/node_modules
+server/.env
+server/.env.local
+server/insert.http
+server/text.txt
+server/ecommerce.sql
